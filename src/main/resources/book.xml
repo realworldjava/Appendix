@@ -1,0 +1,9 @@
+<book title="Real World Java">
+    <edition>1</edition>
+    <!-- multiple authors -->
+   <authors>
+        <author>Victor Grazi</author>
+        <author>Jeanne Boyarsky</author>
+    </authors>
+    <paperback />
+</book>

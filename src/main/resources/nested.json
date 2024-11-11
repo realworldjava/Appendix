@@ -1,0 +1,15 @@
+{
+  "title": "Real World Java",
+  "edition": 1,
+  "authors": [
+    {
+      "name": "Victor Grazi",
+      "first": true
+    },
+    {
+      "name": "Jeanne Boyarsky",
+      "first": false
+    }
+  ],
+  "paperback": true
+}
